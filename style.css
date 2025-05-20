@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #ff0000; /* Web sayfasının arka plan rengi */
+    color: #ffbb00; /* Metin rengi */
+}
+
+h1 {
+    color: #ffbb00; /* Başlık rengi */
+    font-size: 68px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h2 {
+    color: #ffbb00; /* Başlık rengi */
+    font-size: 68px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h3 {
+    color: #ffbb00; /* Başlık rengi */
+    font-size: 68px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    margin: 555px 0;
+}
+
+p {
+    line-height: 1.5; /* Paragraf satır yüksekliği */
+    font-size: 46px;
+    margin: 10px 0; /* Paragraf üst ve alt boşlukları */
+    background-color:rgb(88, 10, 10);
+}
+ 
+ul {
+    list-style-type: square; /* Liste işaretleme stili */
+    margin: 10px 0; /* Liste üst ve alt boşlukları */
+    padding: 10px; /* Liste iç boşlukları */
+    background-color: #f0f0f0; /* Liste arka plan rengi */
+}
+
+img {
+    max-width: 10000%; /* Resim genişliği */
+    max-height: 10000%; /* Resim yüksekliği */
+    border-radius: 100px; /* Resim kenar yuvarlama */
+}
